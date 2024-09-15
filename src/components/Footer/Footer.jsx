@@ -36,7 +36,7 @@ export default function Footer() {
 							<ul className="text-gray-500 font-medium">
 								<li className="mb-4">
 									<a
-										href="https://github.com/hiteshchoudhary"
+										href="https://github.com/barmanji"
 										className="hover:underline"
 										target="_blank"
 										rel="noreferrer"
@@ -45,7 +45,7 @@ export default function Footer() {
 									</a>
 								</li>
 								<li>
-									<Link to="/" className="hover:underline">
+									<Link to="https://discord.gg/RndwJV7W" target="_blank" className="hover:underline">
 										Discord
 									</Link>
 								</li>
@@ -71,30 +71,28 @@ export default function Footer() {
 				<hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
 				<div className="sm:flex sm:items-center sm:justify-between">
 					<span className="text-sm text-gray-500 sm:text-center">
-						© 2023
-						<a href="https://hiteshchoudhary.com/" className="hover:underline">
-							hiteshchoudhary
+						© 2024-
+						<a href="https://barmanji.com/" className="hover:underline">
+							Barmanji
 						</a>
 						. All Rights Reserved.
 					</span>
 					<div className="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
-						<Link to="#" className="text-gray-500 hover:text-gray-900">
+						<Link to="https://www.linkedin.com/in/ajay-barman-0b37011a7/" target='_blank' className="text-gray-500 hover:text-gray-900">
+
 							<svg
 								className="w-4 h-4"
-								aria-hidden="true"
 								xmlns="http://www.w3.org/2000/svg"
 								fill="currentColor"
-								viewBox="0 0 8 19"
+								viewBox="0 0 24 24"
+								aria-hidden="true"
 							>
-								<path
-									fill-rule="evenodd"
-									d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z"
-									clip-rule="evenodd"
-								/>
+								<path d="M4.98 3.5C4.98 5 4 6 2.5 6S0 5 0 3.5 1 1 2.5 1 5 2 4.98 3.5zM.5 7h4v14h-4V7zm7.5 0h3.5v2h.05C12.9 8 14.45 7 16.5 7c4 0 5 2.63 5 6.04V21h-4v-7.24c0-1.74-.03-3.98-2.5-3.98S12 12.04 12 13.76V21H8V7z" />
 							</svg>
+
 							<span className="sr-only">Facebook page</span>
 						</Link>
-						<Link to="#" className="text-gray-500">
+						<Link to="https://discord.gg/DRdzatJm" target='_blank' className="text-gray-500">
 							<svg
 								className="w-4 h-4"
 								aria-hidden="true"
@@ -106,7 +104,7 @@ export default function Footer() {
 							</svg>
 							<span className="sr-only">Discord community</span>
 						</Link>
-						<Link to="#" className="text-gray-500">
+						<Link to="https://x.com/ItsBarmanji" target='_blank' className="text-gray-500">
 							<svg
 								className="w-4 h-4"
 								aria-hidden="true"
@@ -122,7 +120,7 @@ export default function Footer() {
 							</svg>
 							<span className="sr-only">Twitter page</span>
 						</Link>
-						<Link to="#" className="text-gray-500">
+						<Link to="https://github.com/Barmanji" target='_blank' className="text-gray-500">
 							<svg
 								className="w-4 h-4"
 								aria-hidden="true"
@@ -138,25 +136,10 @@ export default function Footer() {
 							</svg>
 							<span className="sr-only">GitHub account</span>
 						</Link>
-						<Link to="#" className="text-gray-500">
-							<svg
-								className="w-4 h-4"
-								aria-hidden="true"
-								xmlns="http://www.w3.org/2000/svg"
-								fill="currentColor"
-								viewBox="0 0 20 20"
-							>
-								<path
-									fill-rule="evenodd"
-									d="M10 0a10 10 0 1 0 10 10A10.009 10.009 0 0 0 10 0Zm6.613 4.614a8.523 8.523 0 0 1 1.93 5.32 20.094 20.094 0 0 0-5.949-.274c-.059-.149-.122-.292-.184-.441a23.879 23.879 0 0 0-.566-1.239 11.41 11.41 0 0 0 4.769-3.366ZM8 1.707a8.821 8.821 0 0 1 2-.238 8.5 8.5 0 0 1 5.664 2.152 9.608 9.608 0 0 1-4.476 3.087A45.758 45.758 0 0 0 8 1.707ZM1.642 8.262a8.57 8.57 0 0 1 4.73-5.981A53.998 53.998 0 0 1 9.54 7.222a32.078 32.078 0 0 1-7.9 1.04h.002Zm2.01 7.46a8.51 8.51 0 0 1-2.2-5.707v-.262a31.64 31.64 0 0 0 8.777-1.219c.243.477.477.964.692 1.449-.114.032-.227.067-.336.1a13.569 13.569 0 0 0-6.942 5.636l.009.003ZM10 18.556a8.508 8.508 0 0 1-5.243-1.8 11.717 11.717 0 0 1 6.7-5.332.509.509 0 0 1 .055-.02 35.65 35.65 0 0 1 1.819 6.476 8.476 8.476 0 0 1-3.331.676Zm4.772-1.462A37.232 37.232 0 0 0 13.113 11a12.513 12.513 0 0 1 5.321.364 8.56 8.56 0 0 1-3.66 5.73h-.002Z"
-									clip-rule="evenodd"
-								/>
-							</svg>
-							<span className="sr-only">Dribbble account</span>
-						</Link>
+
 					</div>
 				</div>
 			</div>
-		</footer>
+		</footer >
 	);
 }
