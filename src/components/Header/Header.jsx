@@ -8,8 +8,8 @@ export default function Header() {
 				<div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
 					<Link to="/" className="flex items-center">
 						<img
-							src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
-							className="mr-3 h-12"
+							src="https://dynamic.design.com/preview/logodraft/780a15c3-abfc-4ad2-aa3d-280fb710313c/image/large.png"
+							className="mr-3 h-16"
 							alt="Logo"
 						/>
 					</Link>
